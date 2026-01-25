@@ -467,7 +467,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-entitymanager</artifactId>
-      <version>5.2.10.Final</version>
+      <version>5.3.38.Final</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
